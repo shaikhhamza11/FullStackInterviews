@@ -1,6 +1,6 @@
 ## [[⬆]](../README.md) Data Structure Using JavaScript
 
-#### Q1: Find first pair in an array who sum is zero ⭐
+#### Q1: Find first pair in an array who sum is zero 
 ```js
 #input
 const numbers = [-5, -4, -3, -2, -1, 0, 2, 4, 6, 8]
